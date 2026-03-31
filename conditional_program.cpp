@@ -13,3 +13,8 @@ void SimpleIfExample()
 
     cout << "Generated number = " << x << endl;
 }
+// Function to calculate average
+float CalculateAverage(float a, float b)
+{
+    return (a + b) / 2;
+}
