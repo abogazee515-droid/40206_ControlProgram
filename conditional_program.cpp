@@ -64,3 +64,8 @@ void NestedIfExample()
 
     cout << " | Average = " << avg << endl;
 }
+
+int main()
+{
+    return 0;
+}
