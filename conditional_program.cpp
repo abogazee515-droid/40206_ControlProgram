@@ -67,5 +67,14 @@ void NestedIfExample()
 
 int main()
 {
+    cout << "=== Simple If Example ===" << endl;
+    SimpleIfExample();
+
+    cout << "\n=== If-Else Example ===" << endl;
+    IfElseExample();
+
+    cout << "\n=== Nested If Example ===" << endl;
+    NestedIfExample();
+
     return 0;
 }
