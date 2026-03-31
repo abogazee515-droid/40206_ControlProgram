@@ -38,3 +38,29 @@ void IfElseExample()
 
     cout << " | Average = " << avg << endl;
 }
+
+// Nested If Example
+void NestedIfExample()
+{
+    float eng, math, avg;
+
+    cout << "Enter English score: ";
+    cin >> eng;
+
+    cout << "Enter Math score: ";
+    cin >> math;
+
+    avg = CalculateAverage(eng, math);
+
+    if (avg >= 60)
+    {
+        if (avg > 80)
+            cout << "Status: Passed with Excellence";
+        else
+            cout << "Status: Passed";
+    }
+    else
+        cout << "Status: Failed";
+
+    cout << " | Average = " << avg << endl;
+}
