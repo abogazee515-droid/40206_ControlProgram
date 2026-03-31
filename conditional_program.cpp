@@ -18,3 +18,23 @@ float CalculateAverage(float a, float b)
 {
     return (a + b) / 2;
 }
+// If-Else Example
+void IfElseExample()
+{
+    float eng, math, avg;
+
+    cout << "Enter English score: ";
+    cin >> eng;
+
+    cout << "Enter Math score: ";
+    cin >> math;
+
+    avg = CalculateAverage(eng, math);
+
+    if (avg >= 60)
+        cout << "Status: Passed";
+    else
+        cout << "Status: Failed";
+
+    cout << " | Average = " << avg << endl;
+}
