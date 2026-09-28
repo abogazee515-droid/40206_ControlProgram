@@ -1,31 +1,26 @@
 # Conditional Control Program
 
-Demonstrates simple if, if-else, nested if, and average calculation using reusable functions.
-
-## Overview
-This repository is a learning project created as part of C++ programming practice. It focuses on implementing and understanding the concepts demonstrated by the source files.
+Demonstrates simple if, if-else, nested if, and reusable average calculation.
 
 ## Learning Objectives
-- Understand the core programming concept demonstrated in the project.
+- Understand the main concept implemented in this project.
 - Practice writing and organizing C++ code.
-- Build confidence with functions, control flow, algorithms, or data structures as applicable.
-- Observe program execution through console input and output when available.
+- Connect programming theory with a working implementation.
 
 ## Technologies
 - **Language:** C++
-- **Development Environment:** Visual Studio / C++
+- **IDE:** Visual Studio
 - **Main File(s):** `conditional_program.cpp`
 
 ## How to Run
-1. Open the project or solution in Visual Studio.
-2. Select the appropriate build configuration.
-3. Build the project.
-4. Run the program and follow the console instructions.
+1. Open the Visual Studio solution/project.
+2. Build the project.
+3. Run the program.
+4. Follow the console instructions when input is required.
 
-## Notes
-This repository is primarily for educational and practice purposes. The source code is preserved as a learning implementation of the concept.
+## Project Purpose
+This repository is an educational programming exercise focused on understanding the implementation and behavior of the demonstrated concept.
 
 ## Author
-**Sulaiman Alhakami**
-
+**Sulaiman Alhakami**  
 GitHub: [@abogazee515-droid](https://github.com/abogazee515-droid)
